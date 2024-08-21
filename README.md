@@ -47,7 +47,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/fullstack-ai-chatbot.git
+git clone https://github.com/Bhavanish19/fullstack-ai-chatbot.git
 cd fullstack-ai-chatbot
 
 Set Up Backend:
